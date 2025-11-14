@@ -3,7 +3,7 @@ Avaliação A1 da disciplina Técnicas de Desenvolvimento de Algoritmos composta
 
 # README — Exercícios de Python
 
-Este repositório contém quatro exercícios básicos em Python, cada um abordando conceitos fundamentais como listas, dicionários, laços de repetição e estruturas condicionais.
+Este repositório contém quatro exercícios básicos em Python, cada um abordando conceitos fundamentais como listas, dicionários, estruturas de repetição e estruturas condicionais.
 
 ## 📁 Organização dos Arquivos
 
