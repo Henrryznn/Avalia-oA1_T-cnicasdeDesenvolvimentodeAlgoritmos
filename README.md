@@ -86,6 +86,7 @@ FIM
 
 ### 3\. Cadastro de Alunos (exercicio3\_lista\_alunos.py)
 *(Lista é uma estrutra de dados que servepara armazenar vários valores em uma única variável.)*
+
 Recebe nomes digitados pelo usuário e os armazena em uma **lista**. O cadastro encerra quando "sair" é digitado, e ao final todos os nomes são exibidos.
 
 #### Pseudocódigo
@@ -116,7 +117,8 @@ FIM
 -----
 
 ### 4\. Cadastro de Produtos (exercicio4\_cadastro\_produtos.py)
-*(Dicionário é uma estrutura que armazena pares de chabe e valor.)*
+*(Dicionário é uma estrutura que armazena pares de chave e valor.)*
+
 Sistema simples que registra produtos com nome e preço, utilizando um **dicionário** (`dict`). O programa permite inserir quantos itens desejar e exibe todos ao final.
 
 #### Pseudocódigo
