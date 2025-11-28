@@ -40,3 +40,27 @@ Recebe nomes digitados pelo usuário e os armazena em uma lista. O cadastro ence
 Sistema simples que registra produtos com nome e preço, utilizando um **dicionário** (`dict`). O programa permite inserir quantos itens desejar e exibe todos ao final.
 
 ---
+
+## 🤝 Contribuição
+
+Este é um repositório para fins de estudo. Se você é um colega de classe, sinta-se à vontade para:
+
+- **Sugerir melhorias:** Abra uma *issue* para relatar problemas ou sugerir melhorias.
+- **Enviar correções:** Crie um *pull request* para propor alterações no código.
+
+**Aviso:** Este repositório é uma referência de estudo. Lembre-se de não copiar o código diretamente, mas de usá-lo como inspiração para aprender e aprimorar suas próprias soluções.
+
+## 📝 Autor
+
+Gabriel Henrry Silva De Oliveira
+
+**GitHub:** https://github.com/Henrryznn
+
+**Linkedin:** https://www.linkedin.com/in/gabriel-henrry-1a911a317/
+
+---
+
+**Agradecimentos:**
+
+A professora Kadidja Valeria pela excelente condução da disciplina e aos colegas por tornarem o aprendizado colaborativo e enriquecedor.
+
