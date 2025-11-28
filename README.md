@@ -2,7 +2,7 @@
 
 # README — Exercícios de Python A1
 
-Este repositório contém quatro exercícios básicos, cada um abordando conceitos fundamentais como listas, dicionários, estruturas de repetição e estruturas condicionais, representados em **Pseudocódigo**.
+Este repositório contém quatro exercícios básicos em Python, cada um abordando conceitos fundamentais como listas, dicionários, estruturas de repetição e estruturas condicionais. Também representados em **Pseudocódigo**.
 
 ## 📁 Organização dos Arquivos
 
