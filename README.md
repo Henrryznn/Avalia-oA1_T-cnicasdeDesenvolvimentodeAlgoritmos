@@ -6,10 +6,10 @@ Este repositório contém quatro exercícios básicos em Python, cada um abordan
 
 ```
 exercicios/
-├── exercicio1_verificacao_idade.py.ipynb
-├── exercicio2_contador_pares.py.ipynb
-├── exercicio3_lista_alunos.py.ipynb
-└── exercicio4_cadastro_produtos.py.ipynb
+├── exercicio1_verificacao_idade_py.ipynb
+├── exercicio2_contador_pares_py.ipynb
+├── exercicio3_lista_alunos_py.ipynb
+└── exercicio4_cadastro_produtos_py.ipynb
 ```
 
 A pasta **exercicios/** reúne todos os arquivos .py desenvolvidos.
