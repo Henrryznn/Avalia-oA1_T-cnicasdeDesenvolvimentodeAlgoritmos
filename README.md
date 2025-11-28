@@ -8,10 +8,10 @@ Este repositório contém quatro exercícios básicos, cada um abordando conceit
 
 ```
 exercicios/
-├── exercicio1_verificacao_idade_pseudocodigo
-├── exercicio2_contador_pares_pseudocodigo
-├── exercicio3_lista_alunos_pseudocodigo
-└── exercicio4_cadastro_produtos_pseudocodigo
+├── exercicio1_verificacao_idade_py.ipynb
+├── exercicio2_contador_pares_py.ipynb
+├── exercicio3_lista_alunos_py.ipynb
+└── exercicio4_cadastro_produtos_py.ipynb
 ```
 
 A pasta `exercicios/` reúne todos os arquivos .py desenvolvidos, cujas lógicas estão descritas abaixo em pseudocódigo.
