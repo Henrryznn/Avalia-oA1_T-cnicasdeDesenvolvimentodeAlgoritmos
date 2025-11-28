@@ -2,7 +2,7 @@
 
 # README — Exercícios de Python A1
 
-Este repositório contém quatro exercícios básicos em Python, cada um abordando conceitos fundamentais como listas, dicionários, estruturas de repetição e estruturas condicionais. Também representados em **Pseudocódigo**.
+Este repositório contém quatro exercícios em Python, cada um abordando conceitos fundamentais como listas, dicionários, estruturas de repetição e estruturas condicionais. Também representados em **Pseudocódigo**.
 
 ## 📁 Organização dos Arquivos
 
@@ -85,7 +85,7 @@ FIM
 -----
 
 ### 3\. Cadastro de Alunos (exercicio3\_lista\_alunos.py)
-
+*(Lista é uma estrutra de dados que servepara armazenar vários valores em uma única variável.)*
 Recebe nomes digitados pelo usuário e os armazena em uma **lista**. O cadastro encerra quando "sair" é digitado, e ao final todos os nomes são exibidos.
 
 #### Pseudocódigo
@@ -116,7 +116,7 @@ FIM
 -----
 
 ### 4\. Cadastro de Produtos (exercicio4\_cadastro\_produtos.py)
-
+*(Dicionário é uma estrutura que armazena pares de chabe e valor.)*
 Sistema simples que registra produtos com nome e preço, utilizando um **dicionário** (`dict`). O programa permite inserir quantos itens desejar e exibe todos ao final.
 
 #### Pseudocódigo
